@@ -1,0 +1,15 @@
+# .gitignore para el proyecto
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.pkl
+*.h5
+*.keras
+dataset/processed/
+*.log
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
